@@ -1,0 +1,15 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding-top: 100px;
+  transition: background-color 0.5s ease;
+}
+.status {
+  font-size: 20px;
+  color: green;
+}
+.output {
+  margin-top: 20px;
+  font-size: 22px;
+  color: #333;
+}
